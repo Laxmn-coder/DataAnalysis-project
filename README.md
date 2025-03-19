@@ -1,17 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sugarcane Production Analysis</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; }
-        h1, h2 { color: #2c3e50; }
-        code { background: #f4f4f4; padding: 3px 5px; border-radius: 3px; }
-    </style>
-</head>
-<body>
-    <h1>Sugarcane Production Analysis</h1>
+
+<h1>Sugarcane Production Analysis</h1>
     <p>This repository contains a Jupyter Notebook that performs an analysis of sugarcane production data using Python and popular data analysis libraries such as Pandas, Seaborn, and Matplotlib. The dataset used in this analysis is named <strong>"List of Countries by Sugarcane Production.csv"</strong>.</p>
       <h2>Setup</h2>
     <p>Before running the code in the notebook, make sure you have the required libraries installed. If you don't have them, you can install them using pip:</p>
