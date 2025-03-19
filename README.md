@@ -3,8 +3,7 @@
 
 <h1>Sugarcane Production Analysis</h1>
     <p>This repository contains a Jupyter Notebook that performs an analysis of sugarcane production data using Python and popular data analysis libraries such as Pandas, Seaborn, and Matplotlib. The dataset used in this analysis is named <strong>"List of Countries by Sugarcane Production.csv"</strong>.</p>
-      <h2>Setup</h2>
-    <p>Before running the code in the notebook, make sure you have the required libraries installed. If you don't have them, you can install them using pip install pandas seaborn matplotlib</p>
+      
     
     
  <h2>Table of Contents</h2>
